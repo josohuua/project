@@ -16,10 +16,3 @@ Squaring each value in the array instead of doubling it
 Adding 1 to each value in the array
 Creating a new array that only contains the even values from the original array
 Feel free to experiment with the code and see what you can come up with!
-
-
-
-
-
-
-Regenerate response
